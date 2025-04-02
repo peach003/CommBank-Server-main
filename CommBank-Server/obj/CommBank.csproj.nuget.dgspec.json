@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\zl\\CommBank-Server-main\\CommBank-Server-main\\CommBank-Server\\CommBank.csproj": {}
+    "C:\\zl\\CommBank\\CommBank-Server-main\\CommBank-Server\\CommBank.csproj": {}
   },
   "projects": {
-    "C:\\zl\\CommBank-Server-main\\CommBank-Server-main\\CommBank-Server\\CommBank.csproj": {
+    "C:\\zl\\CommBank\\CommBank-Server-main\\CommBank-Server\\CommBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\zl\\CommBank-Server-main\\CommBank-Server-main\\CommBank-Server\\CommBank.csproj",
+        "projectUniqueName": "C:\\zl\\CommBank\\CommBank-Server-main\\CommBank-Server\\CommBank.csproj",
         "projectName": "CommBank-Server",
-        "projectPath": "C:\\zl\\CommBank-Server-main\\CommBank-Server-main\\CommBank-Server\\CommBank.csproj",
+        "projectPath": "C:\\zl\\CommBank\\CommBank-Server-main\\CommBank-Server\\CommBank.csproj",
         "packagesPath": "C:\\Users\\WD\\.nuget\\packages\\",
-        "outputPath": "C:\\zl\\CommBank-Server-main\\CommBank-Server-main\\CommBank-Server\\obj\\",
+        "outputPath": "C:\\zl\\CommBank\\CommBank-Server-main\\CommBank-Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WD\\AppData\\Roaming\\NuGet\\NuGet.Config"
