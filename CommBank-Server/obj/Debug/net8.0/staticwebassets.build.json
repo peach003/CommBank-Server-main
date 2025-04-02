@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dzizrTnvy+yeKdZe2OETvVtQCjTIZNLuIV3PAuyw4c8=",
+  "Source": "CommBank-Server",
+  "BasePath": "_content/CommBank-Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
